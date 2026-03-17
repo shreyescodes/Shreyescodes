@@ -15,14 +15,6 @@ I love creating efficient backend systems, intuitive frontends, and AI-integrate
 
 If you enjoy my work, consider buying me a coffee/tea 🥺👉👈
 
-## 🚀 Featured Projects
-
-- **[Real-Time-Chat-Application](https://github.com/shreyescodes/Real-Time-Chat-Application)** — Dynamic real-time chat app built with JavaScript  
-- **[Seamless-Quiz-Dashboard](https://github.com/shreyescodes/Seamless-Quiz-Dashboard)** — Efficient quiz management dashboard in Python  
-- **[HR-Recruitment-firm-project](https://github.com/shreyescodes/HR-Recruitment-firm-project)** — Full-stack HR recruitment tool developed in TypeScript  
-- **[JWT_Authentication](https://github.com/shreyescodes/JWT_Authentication)** — Secure authentication system in Python  
-- **[Quiz_Dashboard](https://github.com/shreyescodes/Quiz_Dashboard)** — User-friendly quiz dashboard powered by Python  
-- **[Wallet-Application-Kivy](https://github.com/shreyescodes/Wallet-Application-Kivy)** — Python-based wallet app using Kivy framework (forked)
 
 ## 🛠️ Languages & Tools
 
@@ -38,10 +30,6 @@ If you enjoy my work, consider buying me a coffee/tea 🥺👉👈
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyescodes&show_icons=true&theme=gotham&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shreyescodes&theme=gotham&hide_border=true)
-
-- **Followers**: 5  
-- **Following**: 13  
-- **Achievements**: GitHub Developer Program Member, Pull Shark ×2
 
 <!--END_SECTION:waka-->
 
