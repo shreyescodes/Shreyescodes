@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Engineer** with **2+ years** of hands-on experienc
 | **Backend**        | Node.js, Python (FastAPI + Django), Express |
 | **Database**       | PostgreSQL, Redis |
 | **Cloud & DevOps** | AWS, Docker |
-| **AI/ML**          | LangChain, Generative AI |
+| **AI/ML**          | LangChain, Generative AI, RAG Workflows |
 | **Others**         | REST APIs, Microservices, System Design |
 
 ---
