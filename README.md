@@ -28,10 +28,6 @@ I'm a passionate **Full-Stack Engineer** with **2+ years** of hands-on experienc
 | **AI/ML**          | LangChain, Generative AI |
 | **Others**         | REST APIs, Microservices, System Design |
 
-**Languages & Tools**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyescodes&layout=compact&theme=gotham&hide_border=true&hide=jupyter%20notebook)
-
 ---
 
 ### 💼 Professional Experience
