@@ -10,7 +10,6 @@ I'm a passionate **Full-Stack Engineer** with **2+ years** of hands-on experienc
 
 ### 🚀 What I'm up to
 - **Currently building** at **Atrean** — working with Python, FastAPI, Generative AI, PostgreSQL, Node.js, React, AWS & System Design.
-- Deep diving into **Solidity** & decentralized applications.
 - Passionate about **AI orchestration**, workflow automation, and building high-performance systems.
 
 ---
